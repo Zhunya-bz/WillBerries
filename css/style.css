@@ -333,6 +333,11 @@ body {
   margin-right: 15px;
 }
 
+.up-link {
+  color: #fff;
+  text-decoration: none;
+}
+
 .up-text {
   margin-right: 15px;
 }
