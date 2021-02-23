@@ -357,9 +357,15 @@ body {
   }
 }
 
+
 @media (max-width: 576px) {
   .text-title {
     font-size: 34px;
     line-height: 1.4;
   }
+
+  .card-3 {
+    background-size: cover;
+  }
+
 }
